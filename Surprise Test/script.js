@@ -102,6 +102,4 @@ function updateCount() {
     document.getElementById("d").innerText = done;
     document.getElementById("p").innerText = pending;
 }
-
-// load on start
 display();
